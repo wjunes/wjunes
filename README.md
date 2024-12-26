@@ -13,7 +13,7 @@
   <img decoding="async" src="https://www.algoritmos.uy/assets/images/tecnologias/openaigpt.svg" width ="70"/>
   <img decoding="async" src="https://www.algoritmos.uy/assets/img/brand-python.svg" width ="70"/>
 </div>
-<h1 align = "center"> Hola, Soy Willans Junes  @Algoritmos-uy</h1>
+<h1 align = "center"> Hola, Soy Willans Junes  www.algoritmia.uy</h1>
 <h2 align = "center">BIENVENIDOS A MI PERFIL!</h2> 
 -Soy instructor en desarrollo front end y desarrollo moderno de software.
 - Me gusta aprender  permanentemente, para luego poder compartir mis conocimientos con mis alumnos.
